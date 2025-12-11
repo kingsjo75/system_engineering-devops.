@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script sets the owner and group with no permissions, and others with all permissions for the file hello
+chmod 007 hello
