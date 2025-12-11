@@ -1,3 +1,2 @@
 #!/bin/bash
-# This script adds execute permission to all directories in the current directory for owner, group and others
 for dir in */; do done
