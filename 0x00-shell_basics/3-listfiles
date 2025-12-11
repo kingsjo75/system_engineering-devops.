@@ -1,2 +1,2 @@
 #!/bin/bash
-your command..
+ls -l
